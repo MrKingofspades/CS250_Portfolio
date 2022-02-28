@@ -1,1 +1,9 @@
 # CS250_Portfolio
+
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+What does it mean to be a good team member in software development?
+
+I interpret user needs by using communication. I intend to remain in contact with each user and listen to their feedback, asking plenty of questions to make sure that we're getting to the basic idea of what each user is looking for in the product. Creating user stories helps keep a team organized and allows for a focused design plan in which the team can collectively decide which user story (or portion of the product) needs to be worked on and what takes precedence. 
+The biggest takeaway that I would like to implement in the future is that there needs to be some risk and leniency involved when designing programs. The approach that Amazon takes, of not being afraid to fail while trying to innovate, stands out to me. I'd love to experiment and create new things, take development and design into more creative avenues, even if I fall flat on my face. I think agile provides a solid baseline methodology for interpreting design in an innovative and creative way, as it allows for input and change throghout the lifespan of a project. 
+Being a good team member, in my eyes, consists of being open to crticism and not be afraid of putting your own criticisms forward. At the end of the day, we all need to look for growth and when mistakes, or bad ideas, etc. aren't pointed out, there really can't be any room for growth. Remember that the definition of insanity is trying the same thing over and over again, but expecting different results. You need to be open to change in an ever-changing world and I think being a good team member has to start with welcoming the ideas of change. 
